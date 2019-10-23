@@ -10,5 +10,5 @@ quit()
 EOF
 
 #Load travel
-mongoimport -u mongodbuser -p password -d icpd_mongo -c traffic_crash --type CSV --file $PAYLOAD/data/Hotels3.csv --headerline
-mongoimport -u mongodbuser -p password -d icpd_mongo -c traffic_crash --type CSV --file $PAYLOAD/data/RentalCar1.csv --headerline
+mongoimport -u mongodbuser -p password -d icpd_mongo -c hotel --type CSV --file $PAYLOAD/data/Hotels3.csv --headerline
+mongoimport -u mongodbuser -p password -d icpd_mongo -c rentalcar --type CSV --file $PAYLOAD/data/RentalCar1.csv --headerline
