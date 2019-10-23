@@ -5,10 +5,10 @@ This is the repository for the TravelBid demo setup. This is based on Cloud Pak 
 ## Flow
 
 Download and Load the core setup modules.
-Import the dataset into IBM ICP4Data
+Import the dataset into Cloud Pak for Data
 Prepare and shape the dataset using Data Transform.
-Using Imported Jupyter notebook , train a simple linear regression model.
-Save the resulting model into ICP4Data.
+Using Shiny R package build the TravelBid application.
+
 
 # Steps
 Follow these steps to create the required services and run the notebook locally.
