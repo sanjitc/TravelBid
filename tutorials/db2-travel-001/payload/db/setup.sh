@@ -1,4 +1,5 @@
 #!/bin/bash
+#set -x
 
 RIGHT_NOW=$(date +"%x %r %Z")
 TIME_STAMP="Updated on $RIGHT_NOW by $USER"
@@ -41,7 +42,8 @@ __loadDB2Docker()
    echo -e "\nDB2 being loaded with data for you to try out"
 
    #run setup the payload
-   $D exec  $DB2_DOCKER_NAME  bash -c "cd /samples/payload && chmod -R 777 data  &&  ./load.sh"
+   #$D exec  $DB2_DOCKER_NAME  bash -c "cd /samples/payload && chmod -R 777 data  &&  ./load.sh"
+   $D exec  $DB2_DOCKER_NAME  bash -c "cd /samples/payload &&  ./load.sh"
 
 
 }
