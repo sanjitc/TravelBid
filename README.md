@@ -26,9 +26,11 @@ Clone the TravelBid repository locally. In a terminal, run the following command
 $ git clone https://github.com/sanjitc/TravelBid.git
 ### 2. List Available Samples
 
+```
 $ ./load_samples.sh -l
 - db2-travel-001
 - mongo-travel-001
+```
 
 ### 3. Load Samples
 
@@ -39,7 +41,7 @@ $  ./load_samples.sh -t mongo-travel-001
 ### 4. Create Data Connection
 
 Connection Details for DB2:
-
+```
 Connection type = DB2
 Host = Master1 IP 
 Port  = 50000
@@ -48,9 +50,10 @@ Username = db2inst1
 Password = password
 
 JDBC URL =  jdbc:db2://<master 1 IP>:50000/TRAVEL
+```
 
 Connection Details for Mongo:
-
+```
 Connection type = Mongo
 Host = Master1 IP (Use private IP, if it's on Fyre)
 Port  = 27017
@@ -59,3 +62,4 @@ Username = mongodbuser
 Password = password
 
 JDBC URL =  jdbc:ibm:mongodb://<master 1 IP>:27017;databaseName=icpd_mongo
+```
