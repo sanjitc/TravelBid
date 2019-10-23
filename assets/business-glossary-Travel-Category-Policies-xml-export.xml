@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary xmlns="http://www.ibm.com/is/bg/importexport"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.ibm.com/is/bg/importexport BGSchema.xsd"
+    version="1.6" exportTime="1558701169437"
+    ignoreAssignedAssets="false" ignoreLabeledAssets="false"
+    ignoreAssetCollections="false" ignoreStewards="false">
+    <categories>
+        <category
+            rid="6662c0f2.ee6a64fe.9h96lq45p.9nnf6qb.b9mhop.b4f0epd7bbp9q60eebae7"
+            name="Travel Category" shortDescription="Travel information about New York city"/>
+        <category
+            rid="6662c0f2.ee6a64fe.9h96lq473.pnmia5v.4k5k6j.702fpfibnj4i7oh5qtog4"
+            name="Hotel" shortDescription="Information on hotels in New York city">
+            <parentCategory
+                rid="6662c0f2.ee6a64fe.9h96lq45p.9nnf6qb.b9mhop.b4f0epd7bbp9q60eebae7" identity="Travel Category"/>
+        </category>
+        <category
+            rid="6662c0f2.ee6a64fe.9h96lq491.efu2jm3.uk5u4t.me48qdijg4ht59i5vr46p"
+            name="Rentalcar" shortDescription="Details about available rental car agencies, locations and price at New York city">
+            <parentCategory
+                rid="6662c0f2.ee6a64fe.9h96lq45p.9nnf6qb.b9mhop.b4f0epd7bbp9q60eebae7" identity="Travel Category"/>
+        </category>
+    </categories>
+    <terms>
+        <term
+            rid="6662c0f2.e1b1ec6c.9h96lq50v.e5oqm7i.eu4u6o.4k784kv6sdbo45ckvqdbg"
+            name="Borough"
+            shortDescription="Name of boroughs at New York city"
+            status="STANDARD" type="NONE">
+            <parentCategory
+                rid="6662c0f2.ee6a64fe.9h96lq473.pnmia5v.4k5k6j.702fpfibnj4i7oh5qtog4" identity="Travel Category::Hotel"/>
+        </term>
+        <term
+            rid="6662c0f2.e1b1ec6c.9h96lq4vg.4fkf05t.142emu.uktavmra27r31f3karoqu"
+            name="Location" shortDescription="Hotel location"
+            status="STANDARD" type="NONE">
+            <parentCategory
+                rid="6662c0f2.ee6a64fe.9h96lq473.pnmia5v.4k5k6j.702fpfibnj4i7oh5qtog4" identity="Travel Category::Hotel"/>
+        </term>
+        <term
+            rid="6662c0f2.e1b1ec6c.9h96lq4tr.sevftgp.oajl2r.o1fhmv8csaediciefmvf3"
+            name="Name" shortDescription="Hotel name at New York City"
+            status="STANDARD" type="NONE">
+            <parentCategory
+                rid="6662c0f2.ee6a64fe.9h96lq473.pnmia5v.4k5k6j.702fpfibnj4i7oh5qtog4" identity="Travel Category::Hotel"/>
+        </term>
+        <term
+            rid="6662c0f2.e1b1ec6c.9h96lq51r.30ut25h.1v89j6.cplq1kq57jfvcdootkt86"
+            name="Num_Ratin"
+            shortDescription="Number of ratings received"
+            status="STANDARD" type="NONE">
+            <parentCategory
+                rid="6662c0f2.ee6a64fe.9h96lq473.pnmia5v.4k5k6j.702fpfibnj4i7oh5qtog4" identity="Travel Category::Hotel"/>
+        </term>
+        <term
+            rid="6662c0f2.e1b1ec6c.9h96lq4r4.it72hbc.knu8t1.bf9hr15tqm35sn9h6jpm7"
+            name="Price"
+            shortDescription="Daily cost of hotel room at New York City"
+            status="STANDARD" type="NONE">
+            <parentCategory
+                rid="6662c0f2.ee6a64fe.9h96lq473.pnmia5v.4k5k6j.702fpfibnj4i7oh5qtog4" identity="Travel Category::Hotel"/>
+        </term>
+        <term
+            rid="6662c0f2.e1b1ec6c.9h96lq53i.3561aj4.s5g451.js52n46p7ilebnuacdpdg"
+            name="Rating" shortDescription="Hotel rating between 1-5"
+            status="STANDARD" type="NONE">
+            <parentCategory
+                rid="6662c0f2.ee6a64fe.9h96lq473.pnmia5v.4k5k6j.702fpfibnj4i7oh5qtog4" identity="Travel Category::Hotel"/>
+        </term>
+        <term
+            rid="6662c0f2.e1b1ec6c.9h96lq4uo.h8470s1.24nbq8.o6hrmbo94e6hn621acno4"
+            name="Service"
+            shortDescription="Different services available at individual hotel"
+            status="STANDARD" type="NONE">
+            <parentCategory
+                rid="6662c0f2.ee6a64fe.9h96lq473.pnmia5v.4k5k6j.702fpfibnj4i7oh5qtog4" identity="Travel Category::Hotel"/>
+        </term>
+        <term
+            rid="6662c0f2.e1b1ec6c.9h96lq4s3.qhbmiiu.5g4sf2.7n3fo2r46pj0ttmmsq9ts"
+            name="Agency"
+            shortDescription="Rental car agencies at New York City"
+            status="STANDARD" type="NONE">
+            <parentCategory
+                rid="6662c0f2.ee6a64fe.9h96lq491.efu2jm3.uk5u4t.me48qdijg4ht59i5vr46p" identity="Travel Category::Rentalcar"/>
+        </term>
+        <term
+            rid="6662c0f2.e1b1ec6c.9h96lq557.7qu5ds5.uosumd.qs2b9nlkvi1v37sk11043"
+            name="AgencyPhone"
+            shortDescription="Phone number if rental car agencies at New York City"
+            status="STANDARD" type="NONE">
+            <parentCategory
+                rid="6662c0f2.ee6a64fe.9h96lq491.efu2jm3.uk5u4t.me48qdijg4ht59i5vr46p" identity="Travel Category::Rentalcar"/>
+        </term>
+        <term
+            rid="6662c0f2.e1b1ec6c.9h96lq52q.n29m0ev.ffievv.cm9hfrkt1ah1omlnc0oa3"
+            name="Borough"
+            shortDescription="Name of the borough at New York City"
+            status="STANDARD" type="NONE">
+            <parentCategory
+                rid="6662c0f2.ee6a64fe.9h96lq491.efu2jm3.uk5u4t.me48qdijg4ht59i5vr46p" identity="Travel Category::Rentalcar"/>
+        </term>
+        <term
+            rid="6662c0f2.e1b1ec6c.9h96lq505.r1t50q1.lig6i4.s3b6ia6psv1ferjo9uo1t"
+            name="Model" shortDescription="Rental car model"
+            status="STANDARD" type="NONE">
+            <parentCategory
+                rid="6662c0f2.ee6a64fe.9h96lq491.efu2jm3.uk5u4t.me48qdijg4ht59i5vr46p" identity="Travel Category::Rentalcar"/>
+        </term>
+        <term
+            rid="6662c0f2.e1b1ec6c.9h96lq59k.c0svnge.feosf1.vfkqcjhphonb2409lfmur"
+            name="Rent" shortDescription="Daily cost of rent a car"
+            status="STANDARD" type="NONE">
+            <parentCategory
+                rid="6662c0f2.ee6a64fe.9h96lq491.efu2jm3.uk5u4t.me48qdijg4ht59i5vr46p" identity="Travel Category::Rentalcar"/>
+        </term>
+        <term
+            rid="6662c0f2.e1b1ec6c.9h96lq54a.2vmiqpu.a26ova.jq7atbu77t2mctllkvcj6"
+            name="Size" shortDescription="Size of rental car"
+            status="STANDARD" type="NONE">
+            <parentCategory
+                rid="6662c0f2.ee6a64fe.9h96lq491.efu2jm3.uk5u4t.me48qdijg4ht59i5vr46p" identity="Travel Category::Rentalcar"/>
+        </term>
+    </terms>
+    <policies>
+        <policy
+            rid="6662c0f2.8ed29152.9h96lq20v.ss9umgd.p8s002.036ek7rf676q2o40a01kq"
+            name="Protect Accounting Information" shortDescription="Protect accounting data from end user">
+            <referencedRules>
+                <ruleRef
+                    rid="6662c0f2.e1b13efc.9h96lq266.5tbjfsi.acioep.qbfu2hk07o8t53bjo99fa" identity="Account Number needs to protect"/>
+            </referencedRules>
+        </policy>
+        <policy
+            rid="6662c0f2.8ed29152.qir6b1i8t.l88d414.grd1i8.0r5vc11m2beoa7ljkquc6"
+            name="Protection of  sensitive data" shortDescription="Ensure customer privacy by protecting sensitive data">
+            <referencedRules>
+                <ruleRef
+                    rid="6662c0f2.e1b13efc.qir6b1iaf.beafisc.s56jbo.dekut9m2eva89hlvi44r2" identity="Any derived sensitive data (name + tel number + age + gender) must be encrypted if customer id is not tokenized"/>
+                <ruleRef
+                    rid="6662c0f2.e1b13efc.qir6b1ii4.4u0qi7i.t27uu3.o12nq8c1hm55q9h6b7qvf" identity="Client ID/SSN must be masked"/>
+                <ruleRef
+                    rid="6662c0f2.e1b13efc.qir6b1i9b.e8cu9gt.fjqa1p.0po1ch17dp3e09cfdtqjg" identity="Credit Card data must be masked"/>
+            </referencedRules>
+        </policy>
+    </policies>
+    <rules>
+        <rule
+            rid="6662c0f2.e1b13efc.9h96lq266.5tbjfsi.acioep.qbfu2hk07o8t53bjo99fa"
+            name="Account Number needs to protect" shortDescription="External user does n't need account number information">
+            <referencedByPolicies>
+                <policyRef
+                    rid="6662c0f2.8ed29152.9h96lq20v.ss9umgd.p8s002.036ek7rf676q2o40a01kq" identity="Protect Accounting Information"/>
+            </referencedByPolicies>
+            <typedAssignedAssets>
+                <assignedAssets assignmentType="IMPLEMENTED_BY">
+                    <tableRef
+                        rid="b1c497ce.54bd3a08.9he6lltcn.moaqpau.ne0amh.00coffmj7md4e6aihmrk8"
+                        host="jdbc:db2://9.30.147.128:50000/NBC"
+                        databaseName="db2" databaseDBMS="DB2/LINUXX8664"
+                        schema="DB2INST1" table="RENTALCAR"/>
+                    <tableRef
+                        rid="b1c497ce.54bd3a08.9he6lltcn.mnqao1a.4h9u01.efg4duo35db829ee1js9p"
+                        host="jdbc:db2://9.30.147.128:50000/NBC"
+                        databaseName="db2" databaseDBMS="DB2/LINUXX8664"
+                        schema="DB2INST1" table="HOTEL"/>
+                </assignedAssets>
+            </typedAssignedAssets>
+        </rule>
+        <rule
+            rid="6662c0f2.e1b13efc.qir6b1iaf.beafisc.s56jbo.dekut9m2eva89hlvi44r2" name="Any derived sensitive data (name + tel number + age + gender) must be encrypted if customer id is not tokenized">
+            <referencedByPolicies>
+                <policyRef
+                    rid="6662c0f2.8ed29152.qir6b1i8t.l88d414.grd1i8.0r5vc11m2beoa7ljkquc6" identity="Protection of  sensitive data"/>
+            </referencedByPolicies>
+        </rule>
+        <rule
+            rid="6662c0f2.e1b13efc.qir6b1ii4.4u0qi7i.t27uu3.o12nq8c1hm55q9h6b7qvf" name="Client ID/SSN must be masked">
+            <referencedByPolicies>
+                <policyRef
+                    rid="6662c0f2.8ed29152.qir6b1i8t.l88d414.grd1i8.0r5vc11m2beoa7ljkquc6" identity="Protection of  sensitive data"/>
+            </referencedByPolicies>
+        </rule>
+        <rule
+            rid="6662c0f2.e1b13efc.qir6b1i9b.e8cu9gt.fjqa1p.0po1ch17dp3e09cfdtqjg" name="Credit Card data must be masked">
+            <referencedByPolicies>
+                <policyRef
+                    rid="6662c0f2.8ed29152.qir6b1i8t.l88d414.grd1i8.0r5vc11m2beoa7ljkquc6" identity="Protection of  sensitive data"/>
+            </referencedByPolicies>
+        </rule>
+    </rules>
+</glossary>
