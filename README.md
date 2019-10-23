@@ -1,6 +1,6 @@
 # TravelBid
 
-This is the repository for the TravelBid demo setup. This is based on Cloud Pak for Data v2.1.0. 
+This is the repository for the TravelBid demo setup. It's based on Cloud Pak for Data v2.1. 
 
 ## Flow
 
