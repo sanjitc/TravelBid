@@ -1,0 +1,394 @@
+BOROUGH,PRICE,NAME,SERVICE,NUM_RATING,RATING,LOCATION,ATTRACTION,ACCOUNT_NUM
+Queens,64,Flushing Ymca,Free WI-Fi;Swimming Pool;24-hour Front Desk;,69,3,Queens,null,0
+Manhattan,72,Harlem YMCA,Free WI-Fi;24-hour Front Desk;Terrace;,223,3.5,Manhattan,2.7 km from Yankee Stadium,0
+Brooklyn,74,NEW WORLD HOTEL,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,414,1.5,Brooklyn,0.5 km from SoHo Shopping District,0
+Manhattan,86,Vanderbilt YMCA,Free WI-Fi;Swimming Pool;24-hour Front Desk;,1525,3.5,Manhattan,1.0 km from Fifth Avenue Shopping Street,0
+Queens,95,Lexington Inn Queens,Free WI-Fi;Business Center;,260,3,Queens,null,0
+Brooklyn,98,Canal Loft Hotel,Concierge Service;Luggage Storage;,null,null,Brooklyn,null,0
+Queens,102,Kamway Lodge,Free WI-Fi;Family Rooms;Internet Services;,9,3,Queens,null,0
+Queens,104,Flushing Hotel,,69,2.5,Queens,null,0
+Brooklyn,107,Hostel - Chrystie Street,Free WI-Fi;Internet Services;Air Conditioning;,null,null,Brooklyn,0.5 km from SoHo Shopping District,0
+Manhattan,108,Hotel 309,24-hour Front Desk;GardenPicnic Area;,492,3,Manhattan,2.4 km from Madame Tussauds Brooklyn,0
+Queens,108,The Parc Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,281,4,Queens,null,0
+Brooklyn,110,Grandview Hotel Brooklyn,Free Internet Services;Free WI-Fi;24-hour Front Desk;,17,3.5,Brooklyn,null,0
+Queens,116,Flushing Central Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,168,3.5,Queens,null,0
+Manhattan,118,Royal Park Hotel and Hostel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,727,3,Manhattan,2.3 km from Central Park,0
+Queens,122,Days Inn by Wyndham Queens City,Free WI-Fi;24-hour Front Desk;Business Center;,609,3,Queens,null,0
+Queens,122,Anchor Inn,Free Internet Services;Free WI-Fi;24-hour Front Desk;,35,3.5,Queens,null,0
+Brooklyn,125,Kings Hotel,Free WI-Fi;24-hour Front Desk;Business Center;,127,3.5,Brooklyn,null,0
+Brooklyn,129,Lefferts Gardens Residence Bed and Breakfast,Free Internet Services;Free WI-Fi;,35,3.5,Brooklyn,1.7 km from Brooklyn Botanic Garden,0
+Queens,129,JFK Inn,Free Internet Services;Free WI-Fi;24-hour Front Desk;,445,2,Queens,null,0
+Manhattan,130,Manhattan Broadway Budget Hotel,Free WI-Fi;24-hour Front Desk;Pets Allowed;,762,2.5,Manhattan,1.0 km from Madison Square Garden,0
+Queens,131,Red Lion Inn & Suites Queens City,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,607,4,Queens,null,0
+Queens,133,Master Bedroom Available in Astoria,Free WI-Fi;Internet Services;Air Conditioning;,null,null,Queens,null,0
+Queens,133,Ramada by Wyndham Flushing Queens,Free WI-Fi;24-hour Front Desk;Picnic Area;,226,3.5,Queens,null,0
+Queens,135,Radisson Hotel Queens,Free WI-Fi;24-hour Front Desk;Express Check-out;,1540,3.5,Queens,null,0
+Brooklyn,138,The Andrew Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,239,3.5,Brooklyn,null,0
+Brooklyn,139,Days Inn by Wyndham Brooklyn,Free WI-Fi;24-hour Front Desk;Business Center;,371,2.5,Brooklyn,null,0
+Brooklyn,144,Studios in NYC,,null,null,Brooklyn,null,0
+Queens,144,Airway Inn at LaGuardia,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,121,2.5,Queens,null,0
+Manhattan,144,Amsterdam Court Hotel,24-hour Front Desk;Multilingual Staff;Restaurant;,3866,3.5,Manhattan,0.5 km from Times Square,0
+Manhattan,147,Jazz on the Park Youth Hostel,Free WI-Fi;24-hour Front Desk;Terrace;,604,3.5,Manhattan,null,0
+Manhattan,148,Hotel Pennsylvania,Free WI-Fi;24-hour Front Desk;Express Check-out;,8215,2.5,Manhattan,0.3 km from Madison Square Garden,0
+Brooklyn,149,Windsor Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,277,2.5,Brooklyn,null,0
+Manhattan,149,Hudson Brooklyn Central Park,Free WI-Fi;24-hour Front Desk;Restaurant;,7881,3,Manhattan,1.4 km from Times Square,0
+Queens,150,Ramada by Wyndham Queens City,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1091,3,Queens,4.7 km from Rockfeller Center,0
+Queens,150,Wyndham Garden Queens City,Free WI-Fi;24-hour Front Desk;Express Check-out;,1226,4,Queens,null,0
+Queens,151,LaGuardia Plaza Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1119,3.5,Queens,null,0
+Manhattan,151,Opera House Hotel,24-hour Front Desk;Concierge Service;Luggage Storage;,721,4.5,Manhattan,2.5 km from Yankee Stadium,0
+Queens,152,Comfort Inn & Suites LaGuardia Airport,Free Internet Services;Free WI-Fi;24-hour Front Desk;,174,3.5,Queens,null,0
+Manhattan,153,Best Western Mill River Manor,Free WI-Fi;Pool; Umbrellas24-hour Front Desk;,744,4,Manhattan,null,0
+Queens,155,Best Western Jamaica Inn,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,530,4,Queens,null,0
+Central,155,The Paper Factory Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,865,4,Central,null,0
+Queens,156,Marco LaGuardia Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,459,4.5,Queens,null,0
+Queens,157,Corona Hotel Brooklyn - LaGuardia Airport,Free WI-Fi;24-hour Front Desk;Wheelchair Access;,87,3,Queens,1.2 km from National Tennis Center,0
+Queens,159,Prince Flushing Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,92,3.5,Queens,null,0
+Manhattan,161,Harlem 144 Guest House,,24,3.5,Manhattan,null,0
+Queens,161,Howard Johnson by Wyndham Jamaica Queens NYC,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,789,3,Queens,null,0
+Staten Island,167,Comfort Inn Staten Island,Free Internet Services;Free WI-Fi;24-hour Front Desk;,380,4,Staten Island,null,0
+Queens,167,Comfort Inn LaGuardia Airport - 83rd St,Free WI-Fi;,201,3.5,Queens,null,0
+Manhattan,170,Club Quarters Hotel opposite Rockefeller Center,Free WI-Fi;24-hour Front Desk;Terrace;,1971,4,Manhattan,0.8 km from Times Square,0
+Manhattan,171,The Brooklyner A Wyndham Hotel,,13967,4,Manhattan,0.7 km from Madame Tussauds Brooklyn,0
+Brooklyn,171,Club Quarters Hotel Wall Street,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2231,4,Brooklyn,0.6 km from Wall Street,0
+Brooklyn,172,Eurostars Wall Street,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,346,3.5,Brooklyn,0.6 km from Wall Street,0
+Manhattan,173,Nyma The Brooklyn Manhattan Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,3055,4,Manhattan,null,0
+Brooklyn,173,Pod Times Square,Free WI-Fi;24-hour Front Desk;Terrace;,778,4,Brooklyn,0.4 km from Madame Tussauds Brooklyn,0
+Manhattan,175,Hotel Newton,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1723,4,Manhattan,2.1 km from Central Park,0
+Queens,176,The One Boutique Hotel,,102,3.5,Queens,null,0
+Bayside,176,Best Western Queens Gold Coast,Free Internet Services;Free WI-Fi;24-hour Front Desk;,292,4,Bayside,null,0
+Brooklyn,176,World Center Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1241,4.5,Brooklyn,0.7 km from One World Trade Center,0
+Manhattan,177,The International Cozy Inn,,134,4,Manhattan,3.5 km from Yankee Stadium,0
+Brooklyn,178,Extended Stay America - Brooklyn City - LaGuardia Airport,Free WI-Fi;24-hour Front Desk;On-site Parking;,185,4,Brooklyn,null,0
+Brooklyn,181,Redford Hotel,Free WI-Fi;24-hour Front Desk;Express Check-out;,54,3.5,Brooklyn,1.5 km from SoHo Shopping District,0
+Brooklyn,181,Union Hotel an Ascend Hotel Collection Member,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,422,3,Brooklyn,null,0
+Brooklyn,182,La Quinta Inn & Suites Brooklyn Brooklyn,Free WI-Fi;Luggage Storage;Business Center;,453,3.5,Brooklyn,null,0
+Manhattan,183,Hotel Mela Times Square,24-hour Front Desk;Multilingual Staff;Restaurant;,4870,4,Manhattan,0.7 km from Times Square,0
+Manhattan,184,The Redbury Brooklyn,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,757,4,Manhattan,0.9 km from Empire State Building,0
+Manhattan,185,Wellington Hotel,24-hour Front Desk;Multilingual Staff;Restaurant;,7925,3.5,Manhattan,0.7 km from Times Square,0
+Brooklyn,185,Club Quarters Hotel World Trade Center,Free WI-Fi;24-hour Front Desk;Terrace;,2029,4.5,Brooklyn,0.7 km from One World Trade Center,0
+Brooklyn,185,Holiday Inn Manhattan-Financial District,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1816,4,Brooklyn,0.8 km from One World Trade Center,0
+Manhattan,185,Manhattan Inn,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,234,3.5,Manhattan,1.6 km from Madison Square Garden,0
+Manhattan,186,La Quinta Inn & Suites Manhattan,,2861,4,Manhattan,null,0
+Manhattan,188,Broadway Hotel and Hostel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1290,3.5,Manhattan,2.6 km from Central Park,0
+Manhattan,190,Salisbury Hotel,24-hour Front Desk;Multilingual Staff;Concierge Service;,4219,4,Manhattan,1.0 km from Times Square,0
+Central,191,Henry Norman Hotel,Free WI-Fi;24-hour Front Desk;Sauna;,876,5,Central,1.8 km from Output Club,0
+Manhattan,191,The Jewel facing Rockefeller Center,Free WI-Fi;24-hour Front Desk;Restaurant;,2672,4.5,Manhattan,0.9 km from Times Square,0
+Brooklyn,193,Wyndham Garden Chinatown,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1725,4.5,Brooklyn,0.5 km from SoHo Shopping District,0
+Manhattan,193,Fifty Hotel & Suites by Affinia,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1934,4,Manhattan,1.0 km from Rockfeller Center,0
+Brooklyn,194,Holiday Inn Express Brooklyn,Free Internet Services;Free WI-Fi;Multilingual Staff;,437,3.5,Brooklyn,null,0
+Queens,194,Fairfield Inn by Marriott LaGuardia Airport/Flushing,,546,4,Queens,null,0
+Manhattan,194,Night Hotel Theater District Times Square,Free WI-Fi;24-hour Front Desk;Restaurant;,2313,4,Manhattan,0.6 km from Madame Tussauds Brooklyn,0
+Manhattan,194,Comfort Inn Manhattan West,Free WI-Fi;Business Center;,698,4,Manhattan,1.1 km from Broadway Shopping District,0
+Manhattan,194,Pod 39,Free WI-Fi;24-hour Front Desk;Parking;,3995,4,Manhattan,1.1 km from Empire State Building,0
+Manhattan,194,U Hotel Fifth Avenue,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1162,4,Manhattan,1 min from Empire State Building,0
+Manhattan,195,Club Quarters Hotel Grand Central,Free WI-Fi;24-hour Front Desk;Terrace;,1834,4.5,Manhattan,0.6 km from Fifth Avenue Shopping Street,0
+Brooklyn,195,Best Western Gregory Hotel,Free WI-Fi;24-hour Front Desk;Luggage Storage;,451,4,Brooklyn,null,0
+Queens,195,Sleep Inn,Free Internet Services;Free WI-Fi;24-hour Front Desk;,974,4,Queens,5.0 km from Rockfeller Center,0
+Manhattan,195,Colonial House Inn,Free WI-Fi;24-hour Front Desk;Business Center;,448,4.5,Manhattan,1.8 km from Madame Tussauds Brooklyn,0
+Queens,195,Quality Inn,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,457,4,Queens,4.8 km from Rockfeller Center,0
+Queens,195,La Quinta Inn Queens (Brooklyn City),Free Internet Services;Free WI-Fi;24-hour Front Desk;,952,3.5,Queens,null,0
+Brooklyn,197,La Quinta Inn & Suites Garden City,Free Internet Services;Free WI-Fi;24-hour Front Desk;,448,4,Brooklyn,null,0
+Manhattan,198,Seton Hotel,24-hour Front Desk;Multilingual Staff;Concierge Service;,912,4,Manhattan,1.2 km from Fifth Avenue Shopping Street,0
+Brooklyn,199,Fairfield Inn Brooklyn Manhattan/Financial District,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,542,4,Brooklyn,0.5 km from Wall Street,0
+Staten Island,199,Hilton Garden Inn Brooklyn / Staten Island,Free Internet Services;Free WI-Fi;Restaurant;,1352,4,Staten Island,null,0
+Manhattan,200,Da Vinci Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,612,3.5,Manhattan,0.9 km from Times Square,0
+Brooklyn,200,NU Hotel Brooklyn,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1094,4.5,Brooklyn,4.7 km from Brooklyn Bridge,0
+Staten Island,201,Hampton Inn & Suites Staten Island,Free WI-Fi;24-hour Front Desk;Luggage Storage;,871,4,Staten Island,null,0
+Manhattan,201,Hotel Boutique at Grand Central,Free WI-Fi;24-hour Front Desk;Restaurant;,828,4.5,Manhattan,0.6 km from Fifth Avenue Shopping Street,0
+Manhattan,201,The Hotel At Times Square Brooklyn City,24-hour SecurityDry CleaningBusiness Center;,3969,4,Manhattan,null,0
+Queens,202,Days Inn by Wyndham Jamaica / Queens,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1130,3.5,Queens,null,0
+Manhattan,202,The Franklin Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,810,3.5,Manhattan,0.7 km from Solomon R.Guggenheim Museum,0
+Queens,203,Hampton Inn Queens,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2001,4,Queens,null,0
+Brooklyn,204,Orchard Street Hotel,,268,4,Brooklyn,1.7 km from SoHo Shopping District,0
+Brooklyn,204,Comfort Inn Brooklyn,Free WI-Fi;24-hour Front Desk;Luggage Storage;,70,3.5,Brooklyn,4.6 km from Coney Island,0
+Brooklyn,205,The Inn At Fox Hollow Hotel,Free Internet Services;Free WI-Fi;Outdoor Pool;,2665,4.5,Brooklyn,null,0
+Manhattan,206,The Tillary Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,700,4,Central,3.0 km from SoHo Shopping District,0
+Brooklyn,207,Hotel Le Bleu,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1166,4,Brooklyn,null,0
+Brooklyn,208,Holiday Inn Express Brooklyn City- Wall Street,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,594,4,Brooklyn,0.4 km from Wall Street,0
+Queens,209,Wyndham Garden LaGuardia South,,143,4,Queens,0.4 km from Century 21 Mall,0
+Manhattan,209,Days Hotel by Wyndham on Broadway NYC,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2225,3,Manhattan,1.8 km from Central Park,0
+Brooklyn,209,Aloft Brooklyn Brooklyn,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1151,4,Brooklyn,4.9 km from Wall Street,0
+Manhattan,210,Flatiron Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,851,4,Manhattan,1.6 km from Empire State Building,0
+Manhattan,210,Holiday Inn Manhattan 6th Ave - Manhattan,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1488,3.5,Manhattan,0.9 km from Madison Square Garden,0
+Queens,211,Fairfield Inn by Marriott Brooklyn LaGuardia Airport/Astoria,,287,4,Queens,null,0
+Queens,211,Fairfield Inn by Marriott Queens,,923,4,Queens,null,0
+Manhattan,211,GEM Hotel - Manhattan an Ascend Hotel Collection Member,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1342,4,Manhattan,1.7 km from Madame Tussauds Brooklyn,0
+Manhattan,211,Stewart Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,7074,4,Manhattan,0.9 km from Madison Square Garden,0
+Manhattan,212,Hudson River Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,731,3.5,Manhattan,1.0 km from Madame Tussauds Brooklyn,0
+Manhattan,212,Dream Manhattan,Free WI-Fi;Restaurant;Pets Allowed;,857,4.5,Manhattan,1.3 km from Times Square,0
+Queens,212,Holiday Inn - Queens City - Manhattan View,Free Internet Services;Free WI-Fi;24-hour Front Desk;,959,4,Queens,null,0
+Brooklyn,212,Duane Street Hotel Tribeca,Free Internet Services;Free WI-Fi;24-hour Front Desk;,762,4.5,Brooklyn,1.4 km from SoHo Shopping District,0
+Queens,212,Sleep Inn Queens Rockaway Blvd,Free Internet Services;Free WI-Fi;24-hour Front Desk;,319,3.5,Queens,null,0
+Brooklyn,213,Best Western Bowery Hanbee Hotel,24-hour Front Desk;Multilingual Staff;Concierge Service;,1500,4,Brooklyn,0.8 km from SoHo Shopping District,0
+Queens,214,Hilton Garden Inn Queens/Queens,24-hour Front Desk;Restaurant;Luggage Storage;,1415,4,Queens,null,0
+Manhattan,214,Martinique Brooklyn on Broadway Curio Collection by Hilton,24-hour Front Desk;Multilingual Staff;Restaurant;,5390,4,Manhattan,0.7 km from Empire State Building,0
+Manhattan,215,La Quinta Inn & Suites Brooklyn City Central Park,Free Internet Services;Free WI-Fi;24-hour Front Desk;,507,3.5,Manhattan,1.7 km from Central Park Zoo,0
+Manhattan,216,Excelsior Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2305,4,Manhattan,1.1 km from Central Park,0
+Manhattan,216,The Lexington Hotel Autograph Collection,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,5190,4,Manhattan,0.8 km from Fifth Avenue Shopping Street,0
+Manhattan,218,Yorkville Apartments -Upper East Side,Free WI-Fi;Family Rooms;Internet Services;,null,null,Manhattan,null,0
+Manhattan,218,The Belvedere Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,6056,4,Manhattan,0.5 km from Times Square,0
+Brooklyn,218,Arlo SoHo,Free WI-Fi;24-hour Front Desk;Restaurant;,1555,4.5,Brooklyn,1.6 km from SoHo Shopping District,0
+Manhattan,218,Hotel Wales,Free Internet Services;Free WI-Fi;24-hour Front Desk;,944,4,Manhattan,0.6 km from Solomon R.Guggenheim Museum,0
+Manhattan,219,Candlewood Suites Brooklyn City-Times Square,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2010,4,Manhattan,0.9 km from Madame Tussauds Brooklyn,0
+Queens,219,Hilton Brooklyn Queens,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2100,4,Queens,null,0
+Manhattan,220,Empire Hotel,Outdoor Pool;24-hour Front Desk;Multilingual Staff;,7712,3.5,Manhattan,1.6 km from Central Park Zoo,0
+Queens,221,Fairfield Inn & Suites Brooklyn Queens/Queensboro Bridge,,751,4,Queens,null,0
+Manhattan,221,Night Hotel Times Square,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,5212,3.5,Manhattan,1 min from Times Square,0
+Manhattan,221,Hotel Shocard at Times Square,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,432,4.5,Manhattan,0.4 km from Madame Tussauds Brooklyn,0
+Manhattan,221,36 Hudson Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,6,2.5,Manhattan,1.1 km from Madame Tussauds Brooklyn,0
+Manhattan,221,INNSIDE by Melià Brooklyn Nomad,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2686,4.5,Manhattan,1.3 km from Madison Square Garden,0
+Brooklyn,222,Condor Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1116,4.5,Brooklyn,null,0
+Brooklyn,222,Holiday Inn Brooklyn City - Wall Street,Free Internet Services;Free WI-Fi;24-hour Front Desk;,799,4,Brooklyn,1.0 km from Wall Street,0
+Queens,223,Aloft Brooklyn LaGuardia Airport,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,160,4,Queens,null,0
+Brooklyn,223,The Box House Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1302,4.5,Brooklyn,null,0
+Manhattan,224,Hotel Edison,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,12158,4,Manhattan,0.7 km from Times Square,0
+Queens,225,Hampton Inn Brooklyn - LaGuardia Airport,Free Internet Services;Free WI-Fi;Multilingual Staff;,1315,4,Queens,null,0
+Manhattan,225,DoubleTree by Hilton Hotel Brooklyn - Times Square South,24-hour Front Desk;Multilingual Staff;Restaurant;,2410,3.5,Manhattan,0.8 km from Madame Tussauds Brooklyn,0
+Manhattan,225,Carnegie Hotel,,214,4.5,Manhattan,1.1 km from Times Square,0
+Manhattan,225,Arlo NoMad,,1198,4.5,Manhattan,0.8 km from Empire State Building,0
+Manhattan,226,Element Brooklyn Times Square West,Free Internet Services;Free WI-Fi;24-hour Front Desk;,4883,4,Manhattan,1.0 km from Madame Tussauds Brooklyn,0
+Manhattan,226,Marrakech Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1807,3,Manhattan,2.7 km from Central Park,0
+Brooklyn,226,The Frederick Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,2362,4,Brooklyn,1.3 km from One World Trade Center,0
+Manhattan,227,Westgate Brooklyn Grand Central,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,86,3.5,Manhattan,1.2 km from Fifth Avenue Shopping Street,0
+Manhattan,227,Courtyard by Marriott Brooklyn Brooklyn Manhattan/World Trade Center Area,Free WI-Fi;Fitness CentreLaundry (At A Charge),718,4,Manhattan,null,0
+Manhattan,228,Courtyard by Marriott Queens City/Brooklyn Manhattan View,Free WI-Fi;24-hour Front Desk;Parking;,234,4,Manhattan,null,0
+Manhattan,228,The Gregory Hotel,24-hour Front Desk;Multilingual Staff;Restaurant;,1097,4,Manhattan,0.8 km from Empire State Building,0
+Manhattan,228,Brooklyn Apartments,Free WI-Fi;Express Check-out;Parking;,null,null,Manhattan,null,0
+Manhattan,229,The Nomad Suites & Apartments,Free WI-Fi;Luggage Storage;,33,4,Manhattan,0.5 km from Madison Square Garden,0
+Brooklyn,229,The Sohotel,Free WI-Fi;24-hour Front Desk;Concierge Service;,1666,4,Brooklyn,0.6 km from SoHo Shopping District,0
+Manhattan,229,Hotel St. James,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,3054,3.5,Manhattan,0.6 km from Madame Tussauds Brooklyn,0
+Manhattan,230,Dylan Hotel NYC,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1072,3.5,Manhattan,1.1 km from Empire State Building,0
+Manhattan,230,Distrikt Hotel Brooklyn City Tapestry Collection by Hilton,Free Internet Services;Free WI-Fi;24-hour Front Desk;,6220,4.5,Manhattan,0.4 km from Madame Tussauds Brooklyn,0
+Manhattan,230,The Roger Smith Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2579,4,Manhattan,0.7 km from Fifth Avenue Shopping Street,0
+Brooklyn,231,Leon Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,449,4.5,Brooklyn,0.7 km from SoHo Shopping District,0
+Brooklyn,231,Hotel Hugo,Free WI-Fi;24-hour Front Desk;Restaurant;,1913,4,Brooklyn,2.0 km from SoHo Shopping District,0
+Manhattan,231,Fairfield Inn & Suites by Marriott Brooklyn ManhattanManhattan,24-hour Front Desk;Multilingual Staff;,966,4.5,Manhattan,0.8 km from Madison Square Garden,0
+Brooklyn,231,Best Western Plus Brooklyn Bay Hotel,Free WI-Fi;24-hour Front Desk;,328,4,Brooklyn,null,0
+Queens,232,Crowne Plaza Queens Brooklyn City,Free Internet Services;Free WI-Fi;Multilingual Staff;,927,3.5,Queens,null,0
+Brooklyn,233,Hotel Le Jolie,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1722,4.5,Brooklyn,1.0 km from Output Club,0
+Manhattan,233,6 Columbus Central Park a Sixty Hotel,24-hour Front Desk;Multilingual Staff;Restaurant;,1242,4,Manhattan,1.3 km from Times Square,0
+Manhattan,233,Wolcott Hotel,Free WI-Fi;24-hour Front Desk;Concierge Service;,2741,4,Manhattan,null,0
+Manhattan,233,The Benjamin,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,3234,4.5,Manhattan,0.7 km from Rockfeller Center,0
+Brooklyn,234,Best Western Plus Arena Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,754,4,Brooklyn,null,0
+Brooklyn,234,Sheraton Tribeca Brooklyn Hotel,24-hour Front Desk;Multilingual Staff;Restaurant;,2325,4,Brooklyn,0.9 km from SoHo Shopping District,0
+Manhattan,235,Hilton Garden Inn Brooklyn/Manhattan-Manhattan,Free Internet Services;Free WI-Fi;24-hour Front Desk;,2315,4,Manhattan,0.8 km from Madison Square Garden,0
+Manhattan,235,Incentra Village Hotel,Free WI-Fi;GardenConcierge Service;,177,4,Manhattan,2.6 km from Madame Tussauds Brooklyn,0
+Queens,236,Courtyard by Marriott Brooklyn Queens,,1005,4,Queens,null,0
+Manhattan,236,YOTEL Brooklyn,Free Internet Services;Free WI-Fi;24-hour Front Desk;,12516,4.5,Manhattan,0.7 km from Madame Tussauds Brooklyn,0
+Manhattan,237,The Gallivant Times Square,24-hour Front Desk;Multilingual Staff;Concierge Service;,2499,3.5,Manhattan,0.3 km from Times Square,0
+Brooklyn,237,Four Points by Sheraton Manhattan SoHo Village,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1027,4,Brooklyn,1.9 km from SoHo Shopping District,0
+Brooklyn,238,Hilton Garden Inn Tribeca,Free WI-Fi;24-hour Front Desk;Restaurant;,1661,4,Brooklyn,1.1 km from SoHo Shopping District,0
+Manhattan,238,Four Points by Sheraton Manhattan - Manhattan,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1146,4,Manhattan,1.4 km from Madison Square Garden,0
+Brooklyn,239,Four Points By Sheraton Brooklyn Brooklyn,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,410,3.5,Brooklyn,0.5 km from Wall Street,0
+Brooklyn,239,NoMo SoHo,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1525,4,Brooklyn,0.4 km from SoHo Shopping District,0
+Manhattan,242,WestHouse Brooklyn,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2441,4.5,Manhattan,1.4 km from Times Square,0
+Manhattan,242,Bentley Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,4838,4,Manhattan,2.7 km from Rockfeller Center,0
+Manhattan,242,HGU Brooklyn,Free WI-Fi;24-hour Front Desk;Restaurant;,397,4,Manhattan,0.7 km from Empire State Building,0
+Brooklyn,242,The Wall Street Inn,Free Internet Services;Free WI-Fi;24-hour Front Desk;,588,4.5,Brooklyn,0.2 km from Wall Street,0
+Manhattan,242,The Evelyn Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,186,5,Manhattan,1.1 km from Empire State Building,0
+Brooklyn,243,Sister City Brooklyn,,null,null,Brooklyn,null,0
+Brooklyn,243,Residence Inn Marriott Brooklyn Brooklyn Manhattan/WTC Area,Free Internet Services;Free WI-Fi;24-hour Front Desk;,908,4.5,Brooklyn,0.8 km from Wall Street,0
+Queens,244,Ravel Hotel Trademark Collection by Wyndham,Free WI-Fi;Outdoor Pool;24-hour Front Desk;,945,3.5,Queens,null,0
+Brooklyn,245,Fairfield Inn & Suites by Marriott Brooklyn Brooklyn,,765,4,Brooklyn,null,0
+Brooklyn,247,The Wagner Hotel,,null,null,Brooklyn,null,0
+Manhattan,247,Hilton Garden Inn Brooklyn/Central Park South-Manhattan West,Multilingual Staff;Restaurant;Concierge Service;,3201,4,Manhattan,0.8 km from Times Square,0
+Manhattan,249,Holiday Inn Express Brooklyn City Times Square,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2442,4,Manhattan,null,0
+Manhattan,249,Park South Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,2917,4.5,Manhattan,1.2 km from Empire State Building,0
+Manhattan,250,Millennium Premier Brooklyn Times Square,Parking;BarRestaurant;,1079,4,Manhattan,0.7 km from Times Square,0
+Brooklyn,252,Sheraton Brooklyn Brooklyn Hotel,24-hour Front Desk;Multilingual Staff;Restaurant;,1360,4,Brooklyn,4.9 km from Wall Street,0
+Manhattan,252,EVEN Hotel Brooklyn - Manhattan East 44th,Free WI-Fi;24-hour Front Desk;Parking;,824,4.5,Manhattan,1.3 km from Fifth Avenue Shopping Street,0
+Manhattan,252,Life Hotel NoMad,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,200,4,Manhattan,0.6 km from Madison Square Garden,0
+Manhattan,252,Mid Town East 28th Street Apartments Next to Times Square,Free WI-Fi;Family Rooms;Internet Services;,null,null,Manhattan,null,0
+Manhattan,252,Staybridge Suites Times Square,Free Internet Services;Free WI-Fi;24-hour Front Desk;,6319,4.5,Manhattan,0.5 km from Madame Tussauds Brooklyn,0
+Brooklyn,253,The Solita Soho Hotel an Ascend Hotel Collection Member,Free Internet Services;Free WI-Fi;24-hour Front Desk;,523,4,Brooklyn,0.2 km from SoHo Shopping District,0
+Manhattan,253,The Lucerne Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2659,4.5,Manhattan,1.6 km from Central Park,0
+Brooklyn,253,Arlo SoHo,Free WI-Fi;24-hour Front Desk;Express Check-out;,1555,4.5,Brooklyn,null,0
+Manhattan,254,The Marmara Manhattan,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1101,4.5,Manhattan,null,0
+Brooklyn,254,SIXTY LES Brooklyn City,Free WI-Fi;24-hour Front Desk;Parking;,1333,4,Brooklyn,null,0
+Manhattan,254,Dream Brooklyn,Free WI-Fi;Outdoor Pool;Pool; Sun Lounge,4087,4.5,Manhattan,2.4 km from Madame Tussauds Brooklyn,0
+Manhattan,256,Renaissance Brooklyn Hotel 57,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1579,4,Manhattan,null,0
+Manhattan,256,Skyline Hotel,24-hour Front Desk;Multilingual Staff;Restaurant;,2868,4,Manhattan,null,0
+Brooklyn,256,AKA Wall Street,,185,4.5,Brooklyn,0.7 km from Wall Street,0
+Brooklyn,257,Brooklyn Marriott Brooklyn,Free Internet Services;Free WI-Fi;24-hour Front Desk;,2051,4,Brooklyn,null,0
+Queens,259,Best Western Queens Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1012,3.5,Queens,null,0
+Manhattan,259,Fitzpatrick Grand Central,24-hour Front Desk;Multilingual Staff;Terrace;,2796,4.5,Manhattan,0.9 km from Fifth Avenue Shopping Street,0
+Manhattan,261,DoubleTree by Hilton Brooklyn City - Manhattan,Free Internet Services;Free WI-Fi;24-hour Front Desk;,2407,3.5,Manhattan,null,0
+Manhattan,262,Grand Hyatt Brooklyn,Free Internet Services;Free WI-Fi;24-hour Front Desk;,10754,3.5,Manhattan,1.2 km from Fifth Avenue Shopping Street,0
+Manhattan,262,Holiday Inn Express - Brooklyn City Manhattan,Free Internet Services;Free WI-Fi;24-hour Front Desk;,2265,4,Manhattan,1.3 km from Madame Tussauds Brooklyn,0
+Manhattan,262,Four Points by Sheraton Manhattan-Times Square,Free Internet Services;Free WI-Fi;24-hour Front Desk;,2518,4,Manhattan,0.4 km from Madame Tussauds Brooklyn,0
+Manhattan,264,Aloft Harlem,Free Internet Services;Free WI-Fi;24-hour Front Desk;,782,4,Manhattan,1.2 km from General Grant National Memorial,0
+Manhattan,264,Holiday Inn Express Manhattan Times Square South,Free Internet Services;Free WI-Fi;Multilingual Staff;,1371,4.5,Manhattan,0.6 km from Empire State Building,0
+Manhattan,264,Executive Hotel Le Soleil Brooklyn,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1305,4.5,Manhattan,0.5 km from Empire State Building,0
+Manhattan,265,City Club Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,961,4,Manhattan,0.7 km from Fifth Avenue Shopping Street,0
+Manhattan,265,Hampton Inn Manhattan/Times Square South,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2892,4,Manhattan,0.9 km from Madame Tussauds Brooklyn,0
+Manhattan,266,Hampton Inn Brooklyn - 35th Street - Empire State Building,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2561,4,Manhattan,0.8 km from Empire State Building,0
+Manhattan,266,Park Lane Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,8456,4,Manhattan,1.1 km from Rockfeller Center,0
+Brooklyn,266,Blue Moon Boutique Hotel,Free WI-Fi;24-hour Front Desk;,621,3.5,Brooklyn,1.3 km from SoHo Shopping District,0
+Manhattan,266,DoubleTree by Hilton Metropolitan - Brooklyn City,Free Internet Services;Free WI-Fi;24-hour Front Desk;,6102,3.5,Manhattan,0.7 km from Rockfeller Center,0
+Manhattan,267,Fairfield Inn by Marriott Brooklyn Manhattan/Fifth Avenue,Free Internet Services;Free WI-Fi;24-hour Front Desk;,702,4,Manhattan,1.0 km from Madame Tussauds Brooklyn,0
+Manhattan,267,Crowne Plaza HY36 Manhattan Manhattan,Free WI-Fi;24-hour Front Desk;Restaurant;,700,4.5,Manhattan,0.7 km from Madame Tussauds Brooklyn,0
+Manhattan,268,citizenM Brooklyn Times Square,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,4258,4.5,Manhattan,0.4 km from Times Square,0
+Manhattan,268,Harlem 144 Apartment,,24,3.5,Manhattan,3.0 km from Solomon R.Guggenheim Museum,0
+Brooklyn,268,Aloft Manhattan Brooklyn - Financial District,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,314,4,Brooklyn,1.0 km from Wall Street,0
+Manhattan,269,The Marcel at Gramercy,24-hour Front Desk;Multilingual Staff;Concierge Service;,4040,4,Manhattan,2.0 km from Empire State Building,0
+Manhattan,269,Archer Hotel Brooklyn,Free WI-Fi;24-hour Front Desk;Restaurant;,3841,4.5,Manhattan,0.7 km from Empire State Building,0
+Manhattan,269,Hampton Inn Times Square North,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,6348,4.5,Manhattan,0.8 km from Times Square,0
+Central,270,Hampton Inn Brooklyn Brooklyn NY,Free WI-Fi;24-hour Front Desk;Luggage Storage;,1281,4.5,Central,3.9 km from Wall Street,0
+Manhattan,271,Comfort Inn Times Square West,Free WI-Fi;,1105,4,Manhattan,0.2 km from Broadway Shopping District,0
+Brooklyn,271,Harlem: Renovated Apartments,,null,null,Brooklyn,null,0
+Manhattan,272,The Roger,24-hour Front Desk;Multilingual Staff;Restaurant;,4268,4.5,Manhattan,0.4 km from Empire State Building,0
+Brooklyn,272,The Ridge Hotel,Free WI-Fi;Terrace;Concierge Service;,551,4,Brooklyn,1.5 km from SoHo Shopping District,0
+Brooklyn,272,The Nolitan,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1038,4.5,Brooklyn,0.6 km from SoHo Shopping District,0
+Manhattan,273,The Lex NYC,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,840,4.5,Manhattan,1.4 km from Empire State Building,0
+Brooklyn,274,Fairfield Inn & Suites Brooklyn Manhattan/Brooklyn East,,462,4,Brooklyn,1.4 km from SoHo Shopping District,0
+Brooklyn,277,Hotel Indigo Lower East Side Brooklyn,Free WI-Fi;Outdoor Pool;24-hour Front Desk;,1064,4.5,Brooklyn,1.6 km from SoHo Shopping District,0
+Manhattan,277,Fairfield Inn & Suites Brooklyn Manhattan Manhattan/Penn Station,Free Internet Services;Free WI-Fi;Electric Vehicle Charging Station,1712,4.5,Manhattan,null,0
+Manhattan,278,Hotel 48LEX Brooklyn,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1921,4.5,Manhattan,1.0 km from Rockfeller Center,0
+Manhattan,279,Fitzpatrick Manhattan Hotel,24-hour Front Desk;Multilingual Staff;Restaurant;,1618,4.5,Manhattan,1.2 km from Rockfeller Center,0
+Brooklyn,279,DoubleTree by Hilton Brooklyn City - Financial District,Free Internet Services;Free WI-Fi;24-hour Front Desk;,2957,3.5,Brooklyn,0.4 km from Wall Street,0
+Manhattan,279,Courtyard by Marriott Brooklyn Manhattan/Times Square,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1590,4,Manhattan,0.7 km from Madame Tussauds Brooklyn,0
+Brooklyn,280,Millennium Hilton Brooklyn Brooklyn,24-hour Front Desk;Multilingual Staff;Restaurant;,5304,4,Brooklyn,1.3 km from Wall Street,0
+Manhattan,280,The Time Brooklyn,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1111,4.5,Manhattan,0.8 km from Times Square,0
+Manhattan,281,Homewood Suites Brooklyn/Manhattan Manhattan Times Square,Free Internet Services;Free WI-Fi;24-hour Front Desk;,3254,4.5,Manhattan,1.1 km from Madame Tussauds Brooklyn,0
+Manhattan,281,InterContinental Brooklyn Barclay,24-hour Front Desk;Restaurant;Pets Allowed;,2092,4.5,Manhattan,0.8 km from Fifth Avenue Shopping Street,0
+Manhattan,281,Holiday Inn Brooklyn City - Times Square,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1039,4,Manhattan,0.4 km from Madame Tussauds Brooklyn,0
+Manhattan,281,The Paul an Ascend Hotel Collection Member,Free Internet Services;Free WI-Fi;24-hour Front Desk;,984,4,Manhattan,0.7 km from Madison Square Garden,0
+Brooklyn,281,Four Points by Sheraton Melville Queens,Free Internet Services;Free WI-Fi;Outdoor Pool;,367,4,Brooklyn,null,0
+Manhattan,282,The Kitano Hotel Brooklyn,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1329,4.5,Manhattan,null,0
+Manhattan,283,The Michelangelo Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,4243,4.5,Manhattan,0.4 km from Times Square,0
+Brooklyn,283,Sago Hotel,,155,4.5,Brooklyn,1.4 km from SoHo Shopping District,0
+Manhattan,284,Hampton Inn Manhattan/United Nations,Free WI-Fi;Luggage Storage;,2674,4.5,Manhattan,null,0
+Manhattan,285,The Moderne,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2166,4.5,Manhattan,1.2 km from Times Square,0
+Brooklyn,285,Soho Grand Hotel,Free WI-Fi;Multilingual Staff;Restaurant;,3463,4,Brooklyn,0.8 km from SoHo Shopping District,0
+Manhattan,286,Park Ave Apartments Manhattan Next to Times Square,Free WI-Fi;Family Rooms;Internet Services;,null,null,Manhattan,null,0
+Manhattan,287,Hyatt House Brooklyn/Manhattan,Free WI-Fi;Restaurant;Concierge Service;,701,4.5,Manhattan,0.7 km from Madison Square Garden,0
+Manhattan,288,The Iroquois Brooklyn,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,4413,4.5,Manhattan,0.7 km from Fifth Avenue Shopping Street,0
+Manhattan,289,The Pearl Brooklyn,24-hour Front Desk;Multilingual Staff;Microwave (Shared),2632,4.5,Manhattan,0.7 km from Times Square,0
+Brooklyn,289,Gild Hall A Thompson Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2072,4.5,Brooklyn,0.6 km from Wall Street,0
+Manhattan,292,SpringHill Suites by Marriott Brooklyn Manhattan Manhattan,Free WI-Fi;24-hour Front Desk;Terrace;,1177,4.5,Manhattan,1.0 km from Madame Tussauds Brooklyn,0
+Manhattan,293,Courtyard by Marriott Brooklyn Manhattan / Manhattan,Free WI-Fi;Electric Vehicle Charging StationBusiness Center;,1042,4.5,Manhattan,0.7 km from Madison Square Garden,0
+Manhattan,293,Manhattan East Next to Times Square,Free WI-Fi;Family Rooms;Internet Services;,null,null,Manhattan,null,0
+Manhattan,293,Ace Hotel Brooklyn,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1997,4,Manhattan,0.8 km from Madison Square Garden,0
+Manhattan,295,Crowne Plaza Times Square Manhattan,Free WI-Fi;24-hour Front Desk;Express Check-out;,11307,4,Manhattan,0.3 km from Times Square,0
+Suburban,297,Fairfield Inn & Suites Brooklyn Manhattan / Central Park,DEFAULT,360,4,Suburban,1.9 km from Broadway Shopping District,0
+Brooklyn,297,Hampton Inn Manhattan-Seaport-Financial District,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1247,4,Brooklyn,null,0
+Manhattan,297,Chambers Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,733,4.5,Manhattan,0.7 km from Rockfeller Center,0
+Brooklyn,298,Andaz Wall Street - a concept by Hyatt,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,3335,4.5,Brooklyn,0.4 km from Wall Street,0
+Manhattan,298,Cambria Hotel Brooklyn - Times Square,,1136,4.5,Manhattan,0.3 km from Fifth Avenue Shopping Street,0
+Manhattan,298,Cassa Hotel NY 45th Street,Free Internet Services;Free WI-Fi;24-hour Front Desk;,2619,4.5,Manhattan,0.5 km from Times Square,0
+Manhattan,299,The Westin Brooklyn Grand Central,Free WI-Fi;Terrace;Restaurant;,4778,4,Manhattan,1.0 km from Fifth Avenue Shopping Street,0
+Brooklyn,302,Edge Hotel Washington Heights,,null,null,Brooklyn,null,0
+Brooklyn,302,NobleDEN Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1005,4.5,Brooklyn,0.5 km from SoHo Shopping District,0
+Manhattan,303,Fairfield Inn by Marriott Brooklyn Manhattan/Times Square,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2205,4,Manhattan,0.4 km from Madame Tussauds Brooklyn,0
+Brooklyn,303,W Brooklyn - Brooklyn,24-hour Front Desk;Multilingual Staff;Terrace;,1322,4,Brooklyn,0.7 km from One World Trade Center,0
+Manhattan,303,Hilton Garden Inn Brooklyn/West 35th Street,Free WI-Fi;24-hour Front Desk;Restaurant;,5843,4.5,Manhattan,0.8 km from Empire State Building,0
+Manhattan,304,San Carlos Hotel,24-hour Front Desk;Multilingual Staff;Restaurant;,1735,4.5,Manhattan,1.0 km from Rockfeller Center,0
+Manhattan,305,LUMA Hotel Times Square,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,755,4.5,Manhattan,0.6 km from Madame Tussauds Brooklyn,0
+Manhattan,305,Apartments Upper West Side,Free WI-Fi;24-hour Front Desk;Terrace;,null,null,Manhattan,1.8 km from Central Park,0
+Brooklyn,306,Homewood Suites Melville,Free Internet Services;Free WI-Fi;24-hour Front Desk;,661,4,Brooklyn,null,0
+Manhattan,307,Hyatt Place Brooklyn Manhattan South,24-hour Front Desk;Luggage Storage;Business Center;,2544,4,Manhattan,0.5 km from Empire State Building,0
+Manhattan,307,Royalton Park Avenue,Free WI-Fi;Swimming Pool;Outdoor Pool;,2867,4.5,Manhattan,1.0 km from Empire State Building,0
+Manhattan,307,Millennium Times Square Brooklyn,Parking;BarRestaurant;,6394,4,Manhattan,0.7 km from Times Square,0
+Queens,309,Four Points by Sheraton Queens City Queensboro Bridge,Free Internet Services;Free WI-Fi;24-hour Front Desk;,579,4,Queens,4.9 km from Rockfeller Center,0
+Manhattan,310,Sheraton Brooklyn Times Square Hotel,24-hour Front Desk;Multilingual Staff;Restaurant;,10352,4,Manhattan,0.5 km from Times Square,0
+Manhattan,310,Courtyard by Marriott Brooklyn Manhattan/Upper East Side,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1020,4,Manhattan,1.7 km from Solomon R.Guggenheim Museum,0
+Brooklyn,311,Washington Square Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1728,4,Brooklyn,2.5 km from Madison Square Garden,0
+Manhattan,312,The Maritime Hotel,Free WI-Fi;Swimming Pool;24-hour Front Desk;,776,4.5,Manhattan,2.3 km from Madame Tussauds Brooklyn,0
+Manhattan,313,Iberostar 70 Park Avenue,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1025,4,Manhattan,0.8 km from Empire State Building,0
+Manhattan,313,Room Mate Grace Boutique Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1607,4.5,Manhattan,0.6 km from Madame Tussauds Brooklyn,0
+Manhattan,313,The Kimpton Muse Hotel,24-hour Front Desk;Multilingual Staff;Restaurant;,3540,4.5,Manhattan,0.5 km from Times Square,0
+Manhattan,314,Citadines Connect Fifth Avenue Brooklyn,Free WI-Fi;Multilingual Staff;Pets Allowed;,62,4,Manhattan,1 min from Fifth Avenue Shopping Street,0
+Manhattan,314,Viceroy Central Park Brooklyn,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1865,4,Manhattan,1.0 km from Times Square,0
+Manhattan,315,Gardens Suites Hotel by Affinia,Free WI-Fi;24-hour Front Desk;Pets Allowed;,2179,4.5,Manhattan,2.3 km from Rockfeller Center,0
+Manhattan,316,Royalton Hotel,24-hour Front Desk;Multilingual Staff;Pets Allowed;,2779,4,Manhattan,0.7 km from Fifth Avenue Shopping Street,0
+Brooklyn,317,Roxy Hotel Tribeca,Free WI-Fi;24-hour Front Desk;Parking;,1307,5,Brooklyn,1.1 km from SoHo Shopping District,0
+Brooklyn,317,The James Brooklyn- SoHo,Outdoor Pool;24-hour Front Desk;Multilingual Staff;,1758,4.5,Brooklyn,0.8 km from SoHo Shopping District,0
+Brooklyn,318,Brooklyn Marriott at the Brooklyn Bridge,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,715,4,Brooklyn,null,0
+Manhattan,319,Cassa Hotel Times Square,Free WI-Fi;24-hour Front Desk;Express Check-out;,1652,4.5,Manhattan,0.7 km from Madame Tussauds Brooklyn,0
+Manhattan,319,Warwick Brooklyn,24-hour Front Desk;Multilingual Staff;Concierge Service;,4941,4.5,Manhattan,null,0
+Manhattan,320,Kimpton Ink48 Hotel,24-hour Front Desk;Multilingual Staff;Restaurant;,3536,4.5,Manhattan,1.2 km from Broadway Shopping District,0
+Long Beach,321,Allegria Hotel,Free Internet Services;Free WI-Fi;Outdoor Pool;,1587,3.5,Long Beach,null,0
+Manhattan,321,The Bryant Park Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,4219,4.5,Manhattan,0.8 km from Empire State Building,0
+Manhattan,322,Hotel Americano,Free WI-Fi;Swimming Pool;Pool; Sun Lounge,521,3.5,Manhattan,2.5 km from Madame Tussauds Brooklyn,0
+Brooklyn,322,Hilton Garden Inn Brooklyn-Times Square Central,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2101,4,Brooklyn,0.3 km from Madame Tussauds Brooklyn,0
+Manhattan,323,Hilton Garden Inn Times Square,Free Internet Services;Free WI-Fi;24-hour Front Desk;,8316,4.5,Manhattan,0.7 km from Times Square,0
+Manhattan,328,Courtyard by Marriott Brooklyn Manhattan/Herald Square,Free Internet Services;Free WI-Fi;24-hour Front Desk;,899,4.5,Manhattan,0.7 km from Empire State Building,0
+Manhattan,328,Renaissance Brooklyn Times Square Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2656,4.5,Manhattan,null,0
+Manhattan,329,Courtyard Brooklyn Manhattan/Fifth Avenue,,1010,4,Manhattan,0.8 km from Fifth Avenue Shopping Street,0
+Manhattan,332,Courtyard by Marriott Brooklyn City Manhattan Manhattan East,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2578,4.5,Manhattan,1.1 km from Rockfeller Center,0
+Brooklyn,334,Courtyard by Marriott Brooklyn Manhattan/SoHo,Free Internet Services;Free WI-Fi;24-hour Front Desk;,624,4.5,Brooklyn,1.5 km from SoHo Shopping District,0
+Manhattan,334,InterContinental - Brooklyn Times Square,Free WI-Fi;24-hour Front Desk;Restaurant;,6769,4,Manhattan,1 min from Broadway Shopping District,0
+Manhattan,337,Shelburne Hotel & Suites by Affinia,Free WI-Fi;24-hour Front Desk;Restaurant;,5349,4.5,Manhattan,0.9 km from Empire State Building,0
+Manhattan,339,Lotte Brooklyn Palace,24-hour Front Desk;Multilingual Staff;Restaurant;,4756,4.5,Manhattan,0.5 km from Rockfeller Center,0
+Manhattan,339,Hotel Elysee by Library Hotel Collection,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,4669,4.5,Manhattan,0.9 km from Rockfeller Center,0
+Brooklyn,340,PUBLIC an Ian Schrager hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,null,null,Brooklyn,1.1 km from SoHo Shopping District,0
+Manhattan,340,The Lombardy Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,636,4.5,Manhattan,null,0
+Manhattan,342,The William,Free WI-Fi;Parking;Private Parking;,248,4.5,Manhattan,0.8 km from Empire State Building,0
+Manhattan,345,The Standard High Line Brooklyn,Free WI-Fi;24-hour Front Desk;Parking;,3416,4,Manhattan,null,0
+Manhattan,346,Gansevoort Meatpacking,Free Internet Services;Free WI-Fi;Outdoor Pool;,2074,4,Manhattan,2.7 km from Madame Tussauds Brooklyn,0
+Manhattan,347,The Westin Brooklyn at Times Square,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,3524,4,Manhattan,1 min from Broadway Shopping District,0
+Manhattan,348,Residence Inn by Marriott Brooklyn Manhattan/Manhattan East,Free WI-Fi;24-hour Front Desk;Pets Allowed;,2086,4.5,Manhattan,null,0
+Manhattan,348,Brooklyn Marriott East Side,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2494,4,Manhattan,null,0
+Manhattan,348,Brooklyn Hilton Manhattan,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,12855,4,Manhattan,0.8 km from Rockfeller Center,0
+Brooklyn,353,AKA Smyth Tribeca,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,600,4.5,Brooklyn,1.3 km from One World Trade Center,0
+Brooklyn,354,Merrion Row Hotel and Public House,,null,null,Brooklyn,null,0
+Manhattan,355,Hilton Brooklyn Fashion District,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,3826,4,Manhattan,1.1 km from Madison Square Garden,0
+Manhattan,359,W Brooklyn - Times Square,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,4753,4,Manhattan,0.7 km from Times Square,0
+Manhattan,361,Hotel Sofitel Brooklyn,Free Internet Services;Free WI-Fi;24-hour Front Desk;,7285,4.5,Manhattan,0.7 km from Fifth Avenue Shopping Street,0
+Brooklyn,361,Inn at Brooklyn BW Premier Collection,Free WI-Fi;24-hour Front Desk;Terrace;,457,4.5,Brooklyn,null,0
+Manhattan,363,Courtyard Brooklyn Manhattan/Times Square West,Free WI-Fi;Multilingual Staff;Restaurant;,1328,4.5,Manhattan,1.2 km from Madame Tussauds Brooklyn,0
+Manhattan,364,Renaissance Brooklyn Manhattan Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1069,4.5,Manhattan,0.9 km from Madame Tussauds Brooklyn,0
+Brooklyn,370,SIXTY SoHo,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1316,4.5,Brooklyn,1.0 km from SoHo Shopping District,0
+Manhattan,373,The Algonquin Hotel Times Square Autograph Collection,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2230,4,Manhattan,0.7 km from Fifth Avenue Shopping Street,0
+Manhattan,378,Hyatt Centric Times Square Brooklyn,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,5235,4.5,Manhattan,0.5 km from Madame Tussauds Brooklyn,0
+Manhattan,380,The High Line Hotel,24-hour Front Desk;Multilingual Staff;Terrace;,783,4.5,Manhattan,2.4 km from Madame Tussauds Brooklyn,0
+Brooklyn,389,THE BROOME NYC,Free WI-Fi;24-hour Front Desk;Concierge Service;,586,5,Brooklyn,0.6 km from SoHo Shopping District,0
+Manhattan,394,Kimpton Hotel Eventi,24-hour Front Desk;Multilingual Staff;Concierge Service;,3831,4.5,Manhattan,0.5 km from Madison Square Garden,0
+Queens,395,Hyatt Place Flushing/LaGuardia Airport,Free Internet Services;Free WI-Fi;24-hour Front Desk;,765,4.5,Queens,null,0
+Manhattan,396,Brooklyn Marriott Marquis,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,12592,4,Manhattan,null,0
+Manhattan,399,Best Location 28th St & Park Avenue,Free WI-Fi;Family Rooms;Internet Services;,null,null,Manhattan,1.1 km from Empire State Building,0
+Manhattan,404,Best Western Plus Hospitality House,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1299,4.5,Manhattan,0.6 km from Rockfeller Center,0
+Queens,406,Sheraton LaGuardia East Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,349,4,Queens,null,0
+Manhattan,408,Novotel Brooklyn Times Square,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,7174,4.5,Manhattan,0.6 km from Times Square,0
+Manhattan,410,Residence Inn Brooklyn Manhattan/Times Square Hotel,,2747,4.5,Manhattan,null,0
+Manhattan,410,AKA Central Park,Free Internet Services;Free WI-Fi;24-hour Front Desk;,518,4.5,Manhattan,1.0 km from Rockfeller Center,0
+Brooklyn,411,Brooklyn Grand Apartment,,null,null,Brooklyn,null,0
+Manhattan,411,Omni Berkshire Place,24-hour Front Desk;Multilingual Staff;Terrace;,4637,4.5,Manhattan,0.7 km from Rockfeller Center,0
+Manhattan,427,36th Street Manhattan East Luxury Duplex Apartment,Free WI-Fi;Family Rooms;Internet Services;,null,null,Manhattan,1.0 km from Empire State Building,0
+Brooklyn,427,Union Square Best Location 2 Bedroom Apt,Free WI-Fi;Family Rooms;Internet Services;,null,null,Brooklyn,null,0
+Brooklyn,428,The Knickerbocker Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,4796,4.5,Brooklyn,0.2 km from Madame Tussauds Brooklyn,0
+Manhattan,434,Hotel Beacon,Free Internet Services;Free WI-Fi;Multilingual Staff;,4774,4.5,Manhattan,2.1 km from Central Park,0
+Manhattan,436,Hyatt Herald Square Brooklyn,24-hour Front Desk;Multilingual Staff;Restaurant;,1224,4,Manhattan,0.6 km from Madison Square Garden,0
+Manhattan,437,W Brooklyn - Union Square,24-hour Front Desk;Restaurant;Pets Allowed;,1620,4,Manhattan,1.6 km from Empire State Building,0
+Manhattan,441,Refinery Hotel,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,5044,4.5,Manhattan,0.8 km from Empire State Building,0
+Manhattan,457,The Surrey,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2166,4.5,Manhattan,1.3 km from Solomon R.Guggenheim Museum,0
+Manhattan,466,The Kimberly Hotel,24-hour Front Desk;Multilingual Staff;Terrace;,2403,4.5,Manhattan,1.0 km from Rockfeller Center,0
+Manhattan,473,Hotel Giraffe by Library Hotel Collection,Free Internet Services;Free WI-Fi;24-hour Front Desk;,4644,5,Manhattan,0.9 km from Empire State Building,0
+Manhattan,485,Gramercy Park Hotel,Free WI-Fi;Multilingual Staff;Restaurant;,1607,4.5,Manhattan,1.5 km from Empire State Building,0
+Manhattan,487,Manhattan Two Bedroom Apartment - Central Park,Free WI-Fi;Pets Allowed;Family Rooms;,null,null,Manhattan,0.9 km from Broadway Shopping District,0
+Manhattan,497,JW Marriott Essex House Brooklyn,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,2158,4,Manhattan,null,0
+Manhattan,500,1 Hotel Central Park,24-hour Front Desk;Multilingual Staff;Restaurant;,1839,4.5,Manhattan,1.2 km from Rockfeller Center,0
+Manhattan,502,Andaz 5th Avenue - a concept by Hyatt,24-hour Front Desk;Restaurant;Pets Allowed;,2836,4.5,Manhattan,0.7 km from Fifth Avenue Shopping Street,0
+Manhattan,510,The Brooklyn EDITION,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1411,4.5,Manhattan,1.0 km from Empire State Building,0
+Manhattan,534,Madison Avenue Luxury Two Bedroom Apartments Next to Times Square,Free WI-Fi;Shops (On Site)Family Rooms;,null,null,Manhattan,null,0
+Manhattan,567,AKA Times Square,Free WI-Fi;24-hour Front Desk;Concierge Service;,687,4.5,Manhattan,0.7 km from Times Square,0
+Manhattan,569,The Langham Brooklyn Fifth Avenue,Free Internet Services;Free WI-Fi;24-hour Front Desk;,2653,4.5,Manhattan,0.4 km from Empire State Building,0
+Brooklyn,570,Freehand Brooklyn,,null,null,Brooklyn,null,0
+Manhattan,599,Residence Inn Brooklyn Manhattan/Central Park,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1575,4.5,Manhattan,0.7 km from Times Square,0
+Manhattan,675,The London NYC,Free Internet Services;Free WI-Fi;24-hour Front Desk;,4117,4.5,Manhattan,1.0 km from Rockfeller Center,0
+Brooklyn,698,THE MERCER,Free WI-Fi;24-hour Front Desk;On-site Parking;,317,4.5,Brooklyn,1.0 km from SoHo Shopping District,0
+Manhattan,732,The Towers at Lotte Brooklyn Palace,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1808,5,Manhattan,0.5 km from Rockfeller Center,0
+Brooklyn,742,Park Hyatt Brooklyn,Free WI-Fi;Swimming Pool;24-hour Front Desk;,2011,4.5,Brooklyn,0.9 km from Times Square,0
+Manhattan,747,Loews Regency Brooklyn Hotel,Free Internet Services;Free WI-Fi;24-hour Front Desk;,2061,4.5,Manhattan,1.4 km from Rockfeller Center,0
+Manhattan,748,The Chatwal a Luxury Collection Hotel Brooklyn City,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1328,4.5,Manhattan,0.7 km from Times Square,0
+Manhattan,794,The Mark,Free Internet Services;Free WI-Fi;24-hour Front Desk;,938,4.5,Manhattan,1.6 km from Solomon R.Guggenheim Museum,0
+Manhattan,798,The Pierre A Taj Hotel Brooklyn,24-hour Front Desk;Parking;Multilingual Staff;,2195,4.5,Manhattan,1.1 km from Rockfeller Center,0
+Manhattan,844,The Plaza Hotel,24-hour Front Desk;Multilingual Staff;Sauna;,2885,4.5,Manhattan,0.9 km from Rockfeller Center,0
+Manhattan,846,Trump International Hotel & Tower Brooklyn,Free Internet Services;Free WI-Fi;24-hour Front Desk;,1616,4.5,Manhattan,1.1 km from Central Park Zoo,0
+Brooklyn,851,THE GREENWICH HOTEL,Free WI-Fi;24-hour Front Desk;Express Check-out;,586,4.5,Brooklyn,1.6 km from SoHo Shopping District,0
+Manhattan,899,The Lowell,Free Internet Services;Free WI-Fi;24-hour Front Desk;,396,4.5,Manhattan,1.4 km from Rockfeller Center,0
+Manhattan,1069,Mandarin Oriental Brooklyn,Free WI-Fi;24-hour Front Desk;Multilingual Staff;,1700,4.5,Manhattan,null,0
+Manhattan,1071,The Sherry Netherland,Free WI-Fi;24-hour Front Desk;Restaurant;,793,5,Manhattan,1.0 km from Rockfeller Center,0
+Manhattan,1205,The Peninsula Brooklyn,Free Internet Services;Free WI-Fi;Pool; Sun Lounge,1317,4.5,Manhattan,0.6 km from Rockfeller Center,0
+Manhattan,1355,The Ritz-Carlton Brooklyn Central Park,24-hour Front Desk;Multilingual Staff;Pets Allowed;,1745,4.5,Manhattan,null,0
+Brooklyn,3426,CROSBY STREET HOTEL,Free WI-Fi;24-hour Front Desk;On-site Parking;,861,5,Brooklyn,1.1 km from SoHo Shopping District,0
