@@ -27,6 +27,7 @@ $ git clone https://github.com/sanjitc/TravelBid.git
 ### 2. List Available Samples
 
 ```
+$ cd TravelBid/tutorials
 $ ./load_samples.sh -l
 - db2-travel-001
 - mongo-travel-001
@@ -34,8 +35,9 @@ $ ./load_samples.sh -l
 
 ### 3. Load Samples
 
-Depending on your interest of domain, you would pass the domain in the loader.
+Depending on the data source, you would pass the domain in the loader.
 
+$  ./load_samples.sh -t db2-travel-001
 $  ./load_samples.sh -t mongo-travel-001
 
 ### 4. Create Data Connection
