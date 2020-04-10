@@ -1,0 +1,23 @@
+Name,Artifact Type,Category,Description,Tags,Classifications,Stewards,Related Terms
+borough,glossary_term,Travel_category>>travel_rentalcar,Name of the borough where rental car agency located,,,,
+model,glossary_term,Travel_category>>travel_rentalcar,Model of the car,,,,
+size,glossary_term,Travel_category>>travel_rentalcar,Car type such as economy, compact, midsize etc.,,,,
+rent,glossary_term,Travel_category>>travel_rentalcar,Rental cost of the car per day,,,,
+agency,glossary_term,Travel_category>>travel_rentalcar,Name of rental agency,,,,
+agencyaddr,glossary_term,Travel_category>>travel_rentalcar,Address of rental agency ,,,,
+agencyphone,glossary_term,Travel_category>>travel_rentalcar,Phone numner of rental agency,,,,
+account_num,glossary_term,Travel_category>>travel_rentalcar,Rental agancy's account number under TravelBid organization,,,,
+sizeid,glossary_term,Travel_category>>travel_rentalcar,,,,,
+
+
+borough,glossary_term,Travel_category>>travel_hotel,Name of the borough where hotel located,,,,
+price,glossary_term,Travel_category>>travel_hotel,Cost of hotel room per night,,,,
+name,glossary_term,Travel_category>>travel_hotel,Hotel name,,,,
+service,glossary_term,Travel_category>>travel_hotel,All sercices offered by the hotel,,,,
+num_retin,glossary_term,Travel_category>>travel_hotel,Total number of rating,,,,
+rating,glossary_term,Travel_category>>travel_hotel,Hotel star rating,,,,
+location,glossary_term,Travel_category>>travel_hotel,Same as borough,,,,
+account_num,glossary_term,Travel_category>>travel_hotel,Hotel account number under TravelBid organization,,,,
+
+
+
