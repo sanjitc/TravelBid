@@ -1,0 +1,4 @@
+Name,Artifact Type,Category,Description,Tags,Classifications,Stewards
+Travel_category,category,,Travel details,,,
+travel_hotel,category,Travel_category,List of hotels at New York City,,,
+travel_rentalcar,category,Travel_category,Details on rentalcar agencies at New York City,,,
